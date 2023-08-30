@@ -30,7 +30,7 @@ bs4==0.0.1 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" a
 bt==0.2.9 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
 cachetools==5.3.1 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
 ccxt==4.0.33 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
-certifi==2023.5.7 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
+certifi==2023.7.22 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
 cffi==1.15.1 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
 charset-normalizer==3.2.0 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
 click==8.1.6 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"

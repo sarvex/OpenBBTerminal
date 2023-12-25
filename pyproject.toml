@@ -96,7 +96,7 @@ pytorch-lightning = {version = "1.6.5", optional = true}
 u8darts = {extras = ["torch"], version = "0.23.0", optional = true}
 lightgbm = {version = "3.3.5", optional = true}  # locked because this is the latest version available on conda intel mac
 docstring-parser = {version = "^0.15", optional = true}
-grpcio = "^1.51.1"
+grpcio = "^1.60.0"
 jupyterlab-widgets = "^3.0.3"
 mstarpy = "^0.0.4"
 packaging = ">=22.0"

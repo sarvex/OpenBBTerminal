@@ -226,7 +226,7 @@ openai-whisper==20230124 ; python_full_version >= "3.8.1" and python_full_versio
 openai==0.27.8 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
 openapi-schema-pydantic==1.2.4 ; python_full_version >= "3.8.1" and python_version < "3.11" and python_full_version != "3.9.7"
 openpyxl==3.1.2 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
-orjson==3.9.2 ; python_full_version >= "3.8.1" and python_version < "3.11" and python_full_version != "3.9.7"
+orjson==3.9.15 ; python_full_version >= "3.8.1" and python_version < "3.11" and python_full_version != "3.9.7"
 osqp==0.6.3 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
 packaging==23.1 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"
 pandas-datareader==0.10.0 ; python_full_version >= "3.8.1" and python_full_version != "3.9.7" and python_version < "3.11"

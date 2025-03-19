@@ -21,7 +21,7 @@ jobs:
 
       - name: 📝 Release Drafter
         id: release-drafter
-        uses: release-drafter/release-drafter@v6.0.0
+        uses: release-drafter/release-drafter@v6.1.0
         # with:
         #   config-name: platform-drafter.yml
         env:

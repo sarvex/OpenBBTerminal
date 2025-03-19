@@ -31,7 +31,7 @@ jobs:
           echo $PATH
       # Set up caching for conda env so that the workflow runs quickly after the first time
       - name: Setup Conda Caching
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/conda_pkgs_dir
           key: conda-macos-3-10-${{ hashFiles('build/conda/environments/constructor.yml') }}
@@ -133,7 +133,7 @@ jobs:
           echo $PATH
       # Set up caching for conda env so that the workflow runs quickly after the first time
       - name: Setup Conda Caching
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/conda_pkgs_dir
           key: conda-macos-3-10-${{ hashFiles('build/conda/environments/constructor.yml') }}
